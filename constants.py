@@ -1,0 +1,4 @@
+# Constants
+WINDOW_WIDTH = 720
+WINDOW_HEIGHT = 720
+FPS = 30
